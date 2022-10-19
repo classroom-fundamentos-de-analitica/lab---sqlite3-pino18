@@ -40,3 +40,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
+SELECT K0,c16 from tbl1 where k0 LIKE substr(c16,1,1)
